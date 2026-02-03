@@ -1,0 +1,290 @@
+[
+  {
+    "os_name": "Mac OSX 10.10.3", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.10.5", 
+    "user_count": "23"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.1", 
+    "user_count": "1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.2", 
+    "user_count": "1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.4", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.5", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.6", 
+    "user_count": "102"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12", 
+    "user_count": "1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.1", 
+    "user_count": "1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.2", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.3", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.4", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.5", 
+    "user_count": "3"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.6", 
+    "user_count": "151"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13", 
+    "user_count": "7"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.1", 
+    "user_count": "5"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.2", 
+    "user_count": "2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.3", 
+    "user_count": "13"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.4", 
+    "user_count": "6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.5", 
+    "user_count": "1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.6", 
+    "user_count": "794"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14", 
+    "user_count": "12"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.1", 
+    "user_count": "7"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.2", 
+    "user_count": "10"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.3", 
+    "user_count": "11"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.4", 
+    "user_count": "12"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.5", 
+    "user_count": "21"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.6", 
+    "user_count": "603"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15", 
+    "user_count": "6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.1", 
+    "user_count": "13"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.2", 
+    "user_count": "16"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.3", 
+    "user_count": "19"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.4", 
+    "user_count": "35"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.5", 
+    "user_count": "26"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.6", 
+    "user_count": "55"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.7", 
+    "user_count": "1715"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.8", 
+    "user_count": "6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.16", 
+    "user_count": "1858"
+  }, 
+  {
+    "os_name": "Mac OSX 10.9.5", 
+    "user_count": "20"
+  }, 
+  {
+    "os_name": "Mac OSX 11.0", 
+    "user_count": "8"
+  }, 
+  {
+    "os_name": "Mac OSX 11.0.1", 
+    "user_count": "22"
+  }, 
+  {
+    "os_name": "Mac OSX 11.1", 
+    "user_count": "34"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2", 
+    "user_count": "15"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2.1", 
+    "user_count": "4"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2.2", 
+    "user_count": "10"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2.3", 
+    "user_count": "46"
+  }, 
+  {
+    "os_name": "Mac OSX 11.3", 
+    "user_count": "10"
+  }, 
+  {
+    "os_name": "Mac OSX 11.3.1", 
+    "user_count": "33"
+  }, 
+  {
+    "os_name": "Mac OSX 11.4", 
+    "user_count": "60"
+  }, 
+  {
+    "os_name": "Mac OSX 11.5", 
+    "user_count": "5"
+  }, 
+  {
+    "os_name": "Mac OSX 11.5.1", 
+    "user_count": "27"
+  }, 
+  {
+    "os_name": "Mac OSX 11.5.2", 
+    "user_count": "45"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6", 
+    "user_count": "87"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.1", 
+    "user_count": "20"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.2", 
+    "user_count": "15"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.3", 
+    "user_count": "6"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.4", 
+    "user_count": "12"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.5", 
+    "user_count": "17"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.6", 
+    "user_count": "7"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.7", 
+    "user_count": "8"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.8", 
+    "user_count": "22"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7", 
+    "user_count": "12"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.1", 
+    "user_count": "9"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.10", 
+    "user_count": "596"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.2", 
+    "user_count": "7"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.3", 
+    "user_count": "7"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.4", 
+    "user_count": "14"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.5", 
+    "user_count": "4"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.6", 
+    "user_count": "27"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.7", 
+    "user_count": "15"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.8", 
+    "user_count": "34"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.9", 
+    "user_count": "16"
+  }
+]

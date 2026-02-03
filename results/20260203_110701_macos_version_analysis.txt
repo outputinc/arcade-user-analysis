@@ -1,0 +1,25 @@
+macOS Version Analysis for identifying versions earlier than macOS 12
+=====================================================================
+
+Versions EARLIER than macOS 12 (to be included in user query):
+- Mac OSX 10.9.5   (Mavericks)
+- Mac OSX 10.10.5  (Yosemite)
+- Mac OSX 10.11.6  (El Capitan)
+- Mac OSX 10.12.6  (Sierra)
+- Mac OSX 10.13.x  (High Sierra)
+- Mac OSX 10.14.x  (Mojave)
+- Mac OSX 10.15.x  (Catalina)
+- Mac OSX 10.16    (Big Sur compatibility mode)
+- Mac OSX 11.x     (Big Sur)
+
+Pattern for SQL: os_name LIKE 'Mac OSX 10.%' OR os_name LIKE 'Mac OSX 11.%'
+
+Versions that are macOS 12 or later (EXCLUDED):
+- Mac OSX 12.x (Monterey)
+- Mac OSX 13.x (Ventura)
+- Mac OSX 14.x (Sonoma)
+- Mac OSX 15.x (Sequoia)
+- Mac OSX 26.x (future/beta)
+
+Non-macOS (EXCLUDED - not macOS):
+- Windows 7, 8.0, 8.1, 10, 11

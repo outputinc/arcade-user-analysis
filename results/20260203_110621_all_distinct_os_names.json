@@ -1,0 +1,467 @@
+[
+  {
+    "os_name": "Mac OSX 10.10.5"
+  }, 
+  {
+    "os_name": "Mac OSX 10.11.6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.12.6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.2"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.3"
+  }, 
+  {
+    "os_name": "Mac OSX 10.13.6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.3"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.4"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.5"
+  }, 
+  {
+    "os_name": "Mac OSX 10.14.6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.1"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.4"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.5"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.6"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.7"
+  }, 
+  {
+    "os_name": "Mac OSX 10.15.8"
+  }, 
+  {
+    "os_name": "Mac OSX 10.16"
+  }, 
+  {
+    "os_name": "Mac OSX 10.9.5"
+  }, 
+  {
+    "os_name": "Mac OSX 11.0"
+  }, 
+  {
+    "os_name": "Mac OSX 11.0.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2.2"
+  }, 
+  {
+    "os_name": "Mac OSX 11.2.3"
+  }, 
+  {
+    "os_name": "Mac OSX 11.3"
+  }, 
+  {
+    "os_name": "Mac OSX 11.3.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.4"
+  }, 
+  {
+    "os_name": "Mac OSX 11.5.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.5.2"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.2"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.4"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.5"
+  }, 
+  {
+    "os_name": "Mac OSX 11.6.6"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.1"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.10"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.2"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.3"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.5"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.6"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.8"
+  }, 
+  {
+    "os_name": "Mac OSX 11.7.9"
+  }, 
+  {
+    "os_name": "Mac OSX 12.0"
+  }, 
+  {
+    "os_name": "Mac OSX 12.0.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.2"
+  }, 
+  {
+    "os_name": "Mac OSX 12.2.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.3"
+  }, 
+  {
+    "os_name": "Mac OSX 12.3.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.4"
+  }, 
+  {
+    "os_name": "Mac OSX 12.5"
+  }, 
+  {
+    "os_name": "Mac OSX 12.5.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.1"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.2"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.3"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.5"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.6"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.7"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.8"
+  }, 
+  {
+    "os_name": "Mac OSX 12.6.9"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7.2"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7.3"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7.4"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7.5"
+  }, 
+  {
+    "os_name": "Mac OSX 12.7.6"
+  }, 
+  {
+    "os_name": "Mac OSX 13.0"
+  }, 
+  {
+    "os_name": "Mac OSX 13.0.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.2"
+  }, 
+  {
+    "os_name": "Mac OSX 13.2.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.3"
+  }, 
+  {
+    "os_name": "Mac OSX 13.3.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.4"
+  }, 
+  {
+    "os_name": "Mac OSX 13.4.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.5"
+  }, 
+  {
+    "os_name": "Mac OSX 13.5.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.5.2"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.2"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.3"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.4"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.5"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.6"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.7"
+  }, 
+  {
+    "os_name": "Mac OSX 13.6.9"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.1"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.2"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.3"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.4"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.5"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.6"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.7"
+  }, 
+  {
+    "os_name": "Mac OSX 13.7.8"
+  }, 
+  {
+    "os_name": "Mac OSX 14.0"
+  }, 
+  {
+    "os_name": "Mac OSX 14.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.1.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.1.2"
+  }, 
+  {
+    "os_name": "Mac OSX 14.2"
+  }, 
+  {
+    "os_name": "Mac OSX 14.2.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.3"
+  }, 
+  {
+    "os_name": "Mac OSX 14.3.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.4"
+  }, 
+  {
+    "os_name": "Mac OSX 14.4.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.5"
+  }, 
+  {
+    "os_name": "Mac OSX 14.6"
+  }, 
+  {
+    "os_name": "Mac OSX 14.6.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.2"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.3"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.4"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.5"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.6"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.7"
+  }, 
+  {
+    "os_name": "Mac OSX 14.7.8"
+  }, 
+  {
+    "os_name": "Mac OSX 14.8"
+  }, 
+  {
+    "os_name": "Mac OSX 14.8.1"
+  }, 
+  {
+    "os_name": "Mac OSX 14.8.2"
+  }, 
+  {
+    "os_name": "Mac OSX 14.8.3"
+  }, 
+  {
+    "os_name": "Mac OSX 15.0"
+  }, 
+  {
+    "os_name": "Mac OSX 15.0.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.1.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.2"
+  }, 
+  {
+    "os_name": "Mac OSX 15.3"
+  }, 
+  {
+    "os_name": "Mac OSX 15.3.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.3.2"
+  }, 
+  {
+    "os_name": "Mac OSX 15.4"
+  }, 
+  {
+    "os_name": "Mac OSX 15.4.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.5"
+  }, 
+  {
+    "os_name": "Mac OSX 15.6"
+  }, 
+  {
+    "os_name": "Mac OSX 15.6.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.7"
+  }, 
+  {
+    "os_name": "Mac OSX 15.7.1"
+  }, 
+  {
+    "os_name": "Mac OSX 15.7.2"
+  }, 
+  {
+    "os_name": "Mac OSX 15.7.3"
+  }, 
+  {
+    "os_name": "Mac OSX 15.7.4"
+  }, 
+  {
+    "os_name": "Mac OSX 26.0"
+  }, 
+  {
+    "os_name": "Mac OSX 26.0.1"
+  }, 
+  {
+    "os_name": "Mac OSX 26.1"
+  }, 
+  {
+    "os_name": "Mac OSX 26.2"
+  }, 
+  {
+    "os_name": "Mac OSX 26.3"
+  }, 
+  {
+    "os_name": "Windows 10"
+  }, 
+  {
+    "os_name": "Windows 11"
+  }, 
+  {
+    "os_name": "Windows 7"
+  }, 
+  {
+    "os_name": "Windows 8.0"
+  }, 
+  {
+    "os_name": "Windows 8.1"
+  }
+]
