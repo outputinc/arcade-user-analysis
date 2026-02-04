@@ -3,8 +3,13 @@
 BigQuery SQL project analyzing users on macOS versions < 12.
 
 ## Tech Stack
-- BigQuery (project: `second-casing-278016`, table: `arcade.events`)
+- BigQuery (project: `second-casing-278016`)
 - `bq` CLI for query execution
+
+## Tables
+- `arcade.events` - Event data (user_id, title, properties, server_timestamp)
+- `arcade_db_public.users` - User data (id, email)
+- Left join: `events.user_id = users.id` (preserves events with missing users)
 
 ## Structure
 - `*.sql` - Query files
