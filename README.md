@@ -7,10 +7,10 @@ Queries to find users whose latest Session.Start event indicates macOS earlier t
 ## Queries
 
 ### query_users_macos_pre12.sql
-Main query returning user_id, os_name, and timestamp for users on macOS < 12.
+Main query returning user_id, email, and os_name for users on macOS < 12.
 
 ```bash
-bq query --use_legacy_sql=false --format=prettyjson < query_users_macos_pre12.sql
+bq query --use_legacy_sql=false --format=csv --max_rows=10000 < query_users_macos_pre12.sql > "results/$(date +%Y%m%d_%H%M%S)_users_macos_pre12.csv"
 ```
 
 ### query_user_ids_only.sql
